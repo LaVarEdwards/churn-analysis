@@ -1,6 +1,9 @@
-# churn examples
+# Churn Analysis
 
 This guide provides step-by-step instructions for AI modeling of churn.
+
+## View the Notebook
+[![View Notebook](https://img.shields.io/badge/launch-notebook-blue.svg)](https://github.com/LaVarEdwards/churn-analysis/blob/main/churn-analysis.ipynb)
 
 ## Prerequisites
 
@@ -112,4 +115,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/LaVarEdwards/pyspark](https://github.com/LaVarEdwards/churn-analysis)
+Project Link: [https://github.com/LaVarEdwards/churn-analysis](https://github.com/LaVarEdwards/churn-analysis)
