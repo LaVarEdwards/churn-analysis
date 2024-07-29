@@ -19,15 +19,12 @@ This guide provides step-by-step instructions for AI modeling of churn.
 
 ## Installation
 
-#### 1. Install Spark and Hadoop:
-		brew install apache-spark hadoop
-
-#### 2. Create a Python Virtual Environment:   
+#### 1. Create a Python Virtual Environment:   
 		cd <your_project_directory>
 		python -m venv churn-env
 		source churn-env/bin/activate
 
-#### 3. Install the packages:
+#### 2. Install the packages:
 		pip install -r requirements.txt
 
 
@@ -86,7 +83,7 @@ deactivate
 
 ## Testing
 
-#### 1. [download](https://github.com/LaVarEdwards/pyspark/blob/main/test_pyspark_install.ipynb) the jupyter notebook 
+#### 1. [download](https://github.com/LaVarEdwards/churn-analysis/blob/main/churn-analysis.ipynb) the jupyter notebook 
  
 #### 2. start jupyter lab
 		jupyter lab
